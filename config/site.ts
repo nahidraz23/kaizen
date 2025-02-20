@@ -24,10 +24,10 @@ export const siteConfig = {
       label: "About",
       href: "/about",
     },
-    {
-      label: "Sign In",
-      href: "/signin",
-    },
+    // {
+    //   label: "Sign In",
+    //   href: "/signin",
+    // },
   ],
   navMenuItems: [
     {
